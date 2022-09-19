@@ -2,7 +2,7 @@
 name = "livraria3info3"
 version = "0.1.0"
 description = ""
-authors = ["r Pottmaier <adelar5781@gmail.com>"]
+authors = ["adelar Pottmaier <adelar5781@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
